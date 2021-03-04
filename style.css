@@ -1,0 +1,7 @@
+button:hover{
+ background-color : firebrick;
+}
+canvas{
+ box-shadow : 4px 4px 20px mediumpurple;
+ margin-top : 25px;
+}
